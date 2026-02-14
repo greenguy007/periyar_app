@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "326975703502",
+    "project_id": "periyar-database",
+    "storage_bucket": "periyar-database.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:326975703502:android:366525136c40a2991f839f",
+        "android_client_info": {
+          "package_name": "com.periyar_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "326975703502-nkvq07a4u6d4sc5staqb5g4b7sjsrdpb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYV9-hvHsF4PCSiFAlP4EOJkKd9rVFIzc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "326975703502-nkvq07a4u6d4sc5staqb5g4b7sjsrdpb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
